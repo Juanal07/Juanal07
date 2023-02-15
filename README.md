@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juanal07
+- 👋 Hi, I’m Juan.
 
 - 🌱 I'm currently developing a personal project about an e-commerce to make group orders to local farmers. I'm building this fullstack web app with typescript ecosystem (nextjs, react, trpc (react-query), zod, prisma (ORM), mysql (planetscale), tailwindcss, nextauth, vercel, etc). Using the [T3Stack](https://create.t3.gg/) 🙌. 
 
